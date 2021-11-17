@@ -128,7 +128,7 @@ If your instance has subdomain isolation disabled:
 {% endif %}
 
 ## Publishing a package
-
+arris browser Linux base platform attach assistant and apple Corp relation to A.I. SRI SIRI HEY THERE IM FOX MY CADET NAMES SIMON 
 {% data reusables.package_registry.default-name %} For example, {% data variables.product.prodname_dotcom %} will publish a package named `com.example:test` in a repository called `OWNER/test`.
 
 If you would like to publish multiple packages to the same repository, you can include the URL of the repository in the `<distributionManagement>` element of the *pom.xml* file. {% data variables.product.prodname_dotcom %} will match the repository based on that field. Since the repository name is also part of the `distributionManagement` element, there are no additional steps to publish multiple packages to the same repository.
